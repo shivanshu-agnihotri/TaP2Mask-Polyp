@@ -2,9 +2,8 @@
 
 Official repository for **Tap2Mask-Polyp**, a prompt-free, end-to-end polyp segmentation network built on a foundation-model ViT encoder (SAM or DINOv2) with multi-level feature tapping.
 
-> **Paper:** [Title], under review. [Link to preprint, if any]
 >
-> **Status: partial release.** This repository currently contains the model interface and the evaluation and visualization scripts. The full implementation will be released after the paper is accepted. See [Release Plan](#release-plan).
+> **Status: partial release.** This repository currently contains the model interface and the evaluation and visualization scripts. The full implementation will be released after acceptance.
 
 ---
 
