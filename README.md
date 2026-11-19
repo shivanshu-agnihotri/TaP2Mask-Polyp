@@ -24,10 +24,10 @@ Two encoder variants are supported:
 
 | File | Description |
 |---|---|
-| `tap2Mask-polyp.ipynb` | Top-level model class and builder for the SAM variant (interface only) |
-| `tap2Mask-polyp.ipynb` | Top-level model class and builder for the DINOv2 variant (interface only) |
-| `tap2Mask-polyp.ipynb` | Quantitative evaluation: Dice, IoU, S-measure, weighted F-measure, MAE, FPS |
-| `tap2Mask-polyp.ipynb` | Saves input, GT, prediction, and overlay images; plots random samples |
+| `Tap2Mask-Polyp Model .ipynb` | Top-level model class and builder for the SAM variant (interface only) |
+| `Tap2Mask-Polyp Model .ipynb` | Top-level model class and builder for the DINOv2 variant (interface only) |
+| `Tap2Mask-Polyp Model .ipynb` | Quantitative evaluation: Dice, IoU, S-measure, weighted F-measure, MAE, FPS |
+| `Tap2Mask-Polyp Model .ipynb` | Saves input, GT, prediction, and overlay images; plots random samples |
 | `README.md` | This file |
 
 **Please note:**
