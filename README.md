@@ -95,25 +95,4 @@ The DINOv2 variant loads the encoder through `torch.hub` (`facebookresearch/dino
 
 If you find this work useful, please cite our paper once it is available:
 
-```bibtex
-@article{tap2maskpolyp,
-  title   = {[Paper title]},
-  author  = {[Authors]},
-  journal = {[Venue]},
-  year    = {[Year]}
-}
-```
 
----
-
-## License
-
-[Choose a license, e.g. MIT, Apache-2.0, or CC BY-NC 4.0 for non-commercial use.]
-
-## Acknowledgements
-
-This work builds on [Segment Anything](https://github.com/facebookresearch/segment-anything) and [DINOv2](https://github.com/facebookresearch/dinov2), and uses the polyp datasets CVC-ClinicDB, CVC-ColonDB, CVC-300, Kvasir, and ETIS-LaribPolypDB.
-
-## Contact
-
-[Email or issue tracker link]
