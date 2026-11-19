@@ -27,7 +27,7 @@ Two encoder variants are supported:
 | `Tap2Mask-Polyp_Model.ipynb` | Top-level model class and builder for the SAM variant (interface only) |
 | `Tap2Mask-Polyp_Model.ipynb` | Top-level model class and builder for the DINOv2 variant (interface only) |
 | `Tap2Mask-Polyp_Model.ipynb` | Quantitative evaluation: Dice, IoU, S-measure, weighted F-measure, MAE, FPS |
-| `Tap2Mask-Polyp_Model.ipynbb` | Saves input, GT, prediction, and overlay images; plots random samples |
+| `Tap2Mask-Polyp_Model.ipynb` | Saves input, GT, prediction, and overlay images; plots random samples |
 | `README.md` | This file |
 
 **Please note:**
